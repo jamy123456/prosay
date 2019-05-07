@@ -14,6 +14,7 @@ import java.util.Map;
  */
 public class MapListDemo {
 	public static void main(String[] args) {
+		//
 		Map<String, String> map = new HashMap<String, String>();
 		map.put("jamy", "12");
 		map.put("andy", "22");
